@@ -1,0 +1,17 @@
+(
+	name: "My Scene",
+	entities: [
+		[
+			"(\"Entity\",10686409312031760318)",
+			"(value:\"Camera 1116382803\")",
+			"(\r\n\tposition: (\r\n\t\tx: 0,\r\n\t\ty: 0,\r\n\t\tz: 0,\r\n\t),\r\n\trotation: (\r\n\t\tx: 0,\r\n\t\ty: 0,\r\n\t\tz: 0,\r\n\t),\r\n\tscale: (\r\n\t\tx: 0,\r\n\t\ty: 0,\r\n\t\tz: 0,\r\n\t),\r\n)",
+			"(\"NativeScriptComponent\",\"(yaw:0,roll:0,pitch:0)\")",
+		],
+		[
+			"(\"Entity\",17451648413265250819)",
+			"(value:\"Coisa 2951999022\")",
+			"(\r\n\tposition: (\r\n\t\tx: 0,\r\n\t\ty: 0,\r\n\t\tz: 0,\r\n\t),\r\n\trotation: (\r\n\t\tx: 0,\r\n\t\ty: 0,\r\n\t\tz: 0,\r\n\t),\r\n\tscale: (\r\n\t\tx: 0,\r\n\t\ty: 0,\r\n\t\tz: 0,\r\n\t),\r\n)",
+			"(\"NativeScriptComponent\",\"(health:0,mana:0)\")",
+		],
+	],
+)

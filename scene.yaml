@@ -1,0 +1,101 @@
+---
+name: My Scene
+entities:
+  - Entity: 1629404071100650396
+    Tag:
+      value: My Camera
+    Transform:
+      position:
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      rotation:
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      scale:
+        x: 0.0
+        y: 0.0
+        z: 0.0
+    NativeScriptComponent:
+      yaw: 0.0
+      roll: 0.0
+      pitch: 0.0
+  - Entity: 4132579030386227278
+    Tag:
+      value: Camera 3392128027
+    Transform:
+      position:
+        x: 10.0
+        y: 15.0
+        z: 20.0
+      rotation:
+        x: 10.0
+        y: 15.0
+        z: 20.0
+      scale:
+        x: 1.0
+        y: 1.0
+        z: 1.0
+    NativeScriptComponent:
+      yaw: 0.0
+      roll: 0.0
+      pitch: 0.0
+  - Entity: 8759764421255985201
+    Tag:
+      value: Coisa 4103435171
+    Transform:
+      position:
+        x: 25.0
+        y: 30.0
+        z: 35.0
+      rotation:
+        x: 25.0
+        y: 30.0
+        z: 35.0
+      scale:
+        x: 1.0
+        y: 1.0
+        z: 1.0
+    NativeScriptComponent:
+      health: 0
+      mana: 0
+  - Entity: 477116922093729580
+    Tag:
+      value: Coisa 2449541427
+    Transform:
+      position:
+        x: 25.0
+        y: 30.0
+        z: 35.0
+      rotation:
+        x: 25.0
+        y: 30.0
+        z: 35.0
+      scale:
+        x: 1.0
+        y: 1.0
+        z: 1.0
+    NativeScriptComponent:
+      health: 0
+      mana: 0
+  - Entity: 7582745724889153354
+    Tag:
+      value: Camera 367432690
+    Transform:
+      position:
+        x: 10.0
+        y: 15.0
+        z: 20.0
+      rotation:
+        x: 10.0
+        y: 15.0
+        z: 20.0
+      scale:
+        x: 1.0
+        y: 1.0
+        z: 1.0
+    NativeScriptComponent:
+      yaw: 0.0
+      roll: 0.0
+      pitch: 0.0
